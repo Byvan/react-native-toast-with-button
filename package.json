@@ -1,0 +1,43 @@
+{
+  "name": "react-native-toast-with-button",
+  "version": "0.0.1",
+  "description": "A react native module to show custom toast with button, it works on iOS and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byvan/react-native-toast-with-button.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-toast",
+    "toast",
+    "toast-ios",
+    "alert",
+    "react-component",
+    "navigator",
+    "ios",
+    "android",
+    "button",
+    "toast-button"
+  ],
+  "author": "byvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byvan/react-native-toast-with-button/issues"
+  },
+  "dependencies": {
+    "prop-types": ">=15.7.2"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.58.0",
+    "prop-types": ">=15.7.2"
+  },
+  "homepage": "https://github.com/byvan/react-native-toast-with-button#readme",
+  "dependencies": {
+    "prop-types": ">=15.7.2"
+  }
+}

@@ -7,6 +7,8 @@ A react native module to show toast with button (with onPress), it works on iOS 
 - [Getting started](#getting-started)
 - [API](#api)
 
+<img src="https://raw.githubusercontent.com/Byvan/sources/master/Toast.gif" width="300">
+
 ## Installation
 
 * 1.Run `npm i react-native-toast-with-button --save`

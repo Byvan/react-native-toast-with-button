@@ -1,6 +1,6 @@
 {
   "name": "react-native-toast-with-button",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A react native module to show custom toast with button, it works on iOS and Android.",
   "main": "index.js",
   "scripts": {
